@@ -1,10 +1,15 @@
-# Base app with Parcel
+# React/Redux/Firebase + Parcel base app
 
 Create an app about HTML/CSS/JS with Parcel (Web application bundle)
 
-Author: Cu Nguyen &lt;[cunguyen.dev@gmail.com](cnguyen.dev@gmail.com)&gt;
+Deploy to Netlify: [https://parcel-react-redux-firebase-app.netlify.app/](https://parcel-react-redux-firebase-app.netlify.app/)
 
-Deploy to Netlify: [https://parcel-base-app.netlify.app/](https://parcel-base-app.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/636c3ae8-2b9c-4764-91bd-de62ff6c06e9/deploy-status)](https://parcel-react-redux-firebase-app.netlify.app/)
+
+## Developers
+
+- Cu Nguyen &lt;[cunguyen.dev@gmail.com](cnguyen.dev@gmail.com)&gt;
+- Thuy Cao &lt;[thuycao625@gmail.com](thuycao625@gmail.com)&gt;
 
 ## Requirements
 
@@ -12,6 +17,14 @@ Deploy to Netlify: [https://parcel-base-app.netlify.app/](https://parcel-base-ap
   - Recommend installing with [nvm](https://github.com/creationix/nvm)
 - [Parcel](https://parceljs.org/) &gt;=1.12.4
 - [Yarn](https://classic.yarnpkg.com) &gt;=1.22.4
+
+## Tech stacks
+
+- HTML/CSS/JavaScript
+- SASS/SCSS
+- ReactJS
+- Redux
+- Firebase
 
 ## Getting Started
 
