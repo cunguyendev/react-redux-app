@@ -1,8 +1,8 @@
-# React/Redux/Firebase + Parcel base app
+# React/Redux base app
 
 Create an app about HTML/CSS/JS with Parcel (Web application bundle)
 
-Deploy to Netlify: [https://parcel-react-redux-firebase-app.netlify.app/](https://parcel-react-redux-firebase-app.netlify.app/)
+Deploy to Netlify: [https://react-redux-base-app.netlify.app](https://react-redux-base-app.netlify.app)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/636c3ae8-2b9c-4764-91bd-de62ff6c06e9/deploy-status)](https://parcel-react-redux-firebase-app.netlify.app/)
 
@@ -24,7 +24,6 @@ Deploy to Netlify: [https://parcel-react-redux-firebase-app.netlify.app/](https:
 - SASS/SCSS
 - ReactJS
 - Redux
-- Firebase
 
 ## Getting Started
 
