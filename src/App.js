@@ -8,7 +8,7 @@ const App = () => (
       <img src={logo} className="app-logo" alt="logo" />
       <p>
         Edit
-        <code>App.js</code>
+        <code> App.js </code>
         and save to reload.
       </p>
       <a
