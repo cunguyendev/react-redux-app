@@ -43,7 +43,7 @@ npm/yarn install
 npm/yarn start
 ```
 
-Open on web: http://localhost:1234 (this is by default, you can custom it)
+Open on web: http://localhost:3000 (this is by default, you can custom it)
 
 ### Build
 
